@@ -1,91 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
+  - Procedural programming u
+  - Imperative programming u
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming u
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming u
   - Object-based programming
-  - Generic programming
+  - Generic programming h
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Asyncronous programming u
+  - Parallel programming h
   - Reactive programming
   - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Automata-based programming u
+  - Domain-specific languages u
+  - Multi-paradigm programming u
+  - Metaprogramming h
   - Actor model
   - Lambda calculus
-  - Black box
+  - Black box u
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition k
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method u
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class u
+  - Interface u
+  - Encapsulation u
   - Hidden class
   - Object form
-  - Instance
+  - Instance u
   - Introspection
   - Reflection
   - The diamond problem
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert h
+  - Creator h
+  - Controller u
+  - Indirection h
+  - Low coupling u
+  - High cohesion u
+  - Protected variations h
+  - Pure fabrication h
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) u
+  - Open–closed principle (OCP) u
+  - Liskov substitution principle (LSP) h
+  - Interface segregation principle (ISP) h
+  - Dependency inversion principle (DIP) h
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
+  - Singleton u
+  - Factory Method u
+  - Abstract Factory u
+  - Adapter u
+  - Observer u
+  - Strategy h
+  - Facade u
+  - Proxy h
+  - Chain of Responsibility h
+  - Command h
+  - Iterator h
+  - State u
+  - Bridge h
+  - Builder u
+  - Prototype h
+  - Composite h
+  - Decorator u
   - Flyweight
-  - Mediator
+  - Mediator h
   - Memento
   - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Visitor h
+  - Reactor h
+  - Active object h
+  - Delegation h
