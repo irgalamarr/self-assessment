@@ -2,43 +2,43 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Stateful and stateless servers k
+  - Nonblocking I/O and blocking code u
+  - Event loop phases k
+  - Event loop microtasks and macrotasks k
+  - Garbage collection k
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - I/O-bound, CPU-bound, memory-bound tasks h
+  - Interactive applications (close to real-time) h
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules u
+  - ECMAScript modules u
   - Module `node:module`
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons u
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Isolation with modularity k
+  - Dependency injection k
   - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - Coupling and cohesion u
+  - Framework agnostic approach k
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments u
+  - Node.js CLI u
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch u
 - Internal API
-  - Streams API
+  - Streams API u
   - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
+  - Crypto API h
+  - Password hashing with crypto.scrypt u
   - Web Crypto API
-  - File system API (sync and async)
+  - File system API (sync and async) u
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -51,77 +51,77 @@
   - SharedArrayBuffer
   - Module `node:worker_threads`
   - Module `node:child_process`
-  - MessageChannel, MessagePort
-  - BroadcastChannel
-  - Generating crypto random UUID
+  - MessageChannel, MessagePort h
+  - BroadcastChannel h
+  - Generating crypto random UUID u
   - Module `node:url` vs `new URL`
   - Module `node:assert`
-  - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Internationalization h
+  - Blob, File, Buffer, module `node:buffer` h
   - Module `node:zlib`
 - Network
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
-  - Fetch API
+  - SSL certificates h
+  - Protocol agnostic approach h
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
-  - SSE
-  - HTTP/3 (QUIC)
-  - Long polling
-  - REST
-  - RPC
-  - Routing
+  - HTTP(S) u
+  - TCP/SSL u
+  - UDP u
+  - TLS k
+  - Websocket u
+  - SSE k
+  - HTTP/3 (QUIC) k
+  - Long polling u
+  - REST u
+  - RPC u
+  - Routing u
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS u
+  - SQL injection u
   - noDelay
-  - keep-alive
+  - keep-alive u
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
+  - Logging u
+  - Application configuring u
   - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - CI/CD u
+  - Readable k
+  - Writable k
   - Transform
   - Back pressure
   - Buffer
   - Console
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
-  - Query builder
-  - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - Data access layer h
+  - Repository u
+  - Active record u
+  - Query builder u
+  - Object-Relational Mapping u
+  - CRUD u
+  - DTO u
 - Error handling and debugging
-  - `Error`
+  - `Error` u
   - `error.cause`
   - `error.code`
-  - `error.message`
-  - `error.stack`
+  - `error.message` u
+  - `error.stack` u
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions u
   - Heap dump
-  - Debugging tools
+  - Debugging tools k
   - Flame graph
-  - Memory leaks
+  - Memory leaks k
   - Resource leaks
   - Data race
 - Integrations and bindings
@@ -138,6 +138,6 @@
   - Webassembly `C` and `C++`
   - Webassembly `Rust`
   - Webassembly `Zig`
-  - Webassembly `AssemblyScript`
+  - Webassembly `AssemblyScript` k
   - Shared memory
   - V8 binary serialization
