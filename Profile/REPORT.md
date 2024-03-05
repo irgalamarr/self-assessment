@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-184/221/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-280/334/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-184/221/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-280/334/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-184/221/730-009933?style=flat-square"></a>
+<a href="https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-280/334/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,12 +27,12 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `13` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `5` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `0` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `0` | `19` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `0` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `0` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `50` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `16` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `9` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `5` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `10` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `0` | `18` |
@@ -67,13 +67,42 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
+| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
+| `for await` | 🤷 unknown | ⟶  | 👂 heard |
+| `return` | 🤷 unknown | ⟶  | 🖐️ used |
+| Mixins | 🤷 unknown | ⟶  | 🎓 known |
+| `Proxy` | 👂 heard | ⟶  | 🎓 known |
+| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
+| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `0` of `72` skills, `72` to be upgraded, and `0` above needed
+Total: you have `64` of `72` skills, `8` to be upgraded, and `42` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| `BigInt` | 🎓 known | ⟶  | 🖐️ used |
+| `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
+| Async generator | 👂 heard | ⟶  | 🖐️ used |
+| Async iterator | 👂 heard | ⟶  | 🖐️ used |
+| IIFE | 🎓 known | ⟶  | 🖐️ used |
+| Async IIFE | 🎓 known | ⟶  | 🖐️ used |
+| `globalThis` | 👂 heard | ⟶  | 🖐️ used |
+| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
+| `delete` | 🤷 unknown | ⟶  | 🖐️ used |
+| `in` | 🤷 unknown | ⟶  | 👂 heard |
+| Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
+| Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
+| `for await` | 🤷 unknown | ⟶  | 🖐️ used |
+| `return` | 🤷 unknown | ⟶  | 🖐️ used |
+| Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
+| Mixins | 🤷 unknown | ⟶  | 👂 heard |
+| `Proxy` | 👂 heard | ⟶  | 🎓 known |
+| `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
+| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
+| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
+| V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `0` of `97` skills, `97` to be upgraded, and `0` above needed
+Total: you have `76` of `97` skills, `21` to be upgraded, and `38` above needed
 
 ## [Async](/Skills/Async.md)
 
