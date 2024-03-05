@@ -1,9 +1,9 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
+  - Event loop u
+  - `try..catch` u
+  - Non-blocking u
   - Async I/O
   - Thread pool
   - Pattern Reactor
@@ -13,32 +13,32 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions e
+  - Dead locks u
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming h
+  - Parallel programming h
   - Actor Model
-  - Thread
-  - Process
+  - Thread h
+  - Process h
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks u
+  - Callback-last-error-first u
   - Thenable
-  - Promise
-  - Async/await
+  - Promise u
+  - Async/await u
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event u
   - Coroutine
   - Goroutine
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware
+  - Middleware u
   - Locks
 - Async adapters and utils
   - callbackify
@@ -47,30 +47,30 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter u
+  - Observable/Observer u
   - Readable
   - Writable
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore u
+  - Mutex u
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
+  - Timers u
+  - `setImmediate` u
+  - `nextTick` u
+  - AbortController h
+  - AbortSignal h
+  - Promise unhandled rejection u
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
+  - Callback hell u
+  - Promise hell u
+  - ref() and unref() u
   - Error handling in async code
   - Better stack traces with return await
   - JSON streaming serialization
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all u
   - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.race h
+  - Promise.any u
   - Web Locks API
   - IPC
   - Channel API
