@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-280/334/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-311/410/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-280/334/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-311/410/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-280/334/730-009933?style=flat-square"></a>
+<a href="https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-311/410/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -34,12 +34,12 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `10` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `20` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `0` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `9` | `20` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `6` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `0` | `11` |
-| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `0` | `17` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `0` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `4` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `9` | `17` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `3` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `0` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `0` | `14` |
@@ -109,18 +109,119 @@ Total: you have `76` of `97` skills, `21` to be upgraded, and `38` above needed
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| Async I/O | 🤷 unknown | ⟶  | 👂 heard |
+| Sync generator | 🤷 unknown | ⟶  | 🎓 known |
+| Async Generator | 🤷 unknown | ⟶  | 🎓 known |
+| Async Iterator | 🤷 unknown | ⟶  | 🎓 known |
+| Signal | 🤷 unknown | ⟶  | 🖐️ used |
+| Stream | 🤷 unknown | ⟶  | 🖐️ used |
+| Locks | 🤷 unknown | ⟶  | 🎓 known |
+| callbackify | 🤷 unknown | ⟶  | 🎓 known |
+| promisify | 🤷 unknown | ⟶  | 🎓 known |
+| asyncify | 🤷 unknown | ⟶  | 🎓 known |
+| Readable | 🤷 unknown | ⟶  | 🖐️ used |
+| Writable | 🤷 unknown | ⟶  | 🖐️ used |
+| Transform | 🤷 unknown | ⟶  | 🖐️ used |
+| Async Pool | 🤷 unknown | ⟶  | 🎓 known |
+| Async Queue | 🤷 unknown | ⟶  | 🎓 known |
+| Async Collector | 🤷 unknown | ⟶  | 🎓 known |
+| AbortController | 👂 heard | ⟶  | 🖐️ used |
+| AbortSignal | 👂 heard | ⟶  | 🎓 known |
+| Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
+| Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
+| JSON streaming serialization | 🤷 unknown | ⟶  | 👂 heard |
+| AsyncLocalStorage | 🤷 unknown | ⟶  | 👂 heard |
+| AsyncResource | 🤷 unknown | ⟶  | 👂 heard |
+| RxJS library | 🤷 unknown | ⟶  | 👂 heard |
+| Promise.allSettled | 🤷 unknown | ⟶  | 🖐️ used |
+| Promise.race | 👂 heard | ⟶  | 🖐️ used |
+| Web Locks API | 🤷 unknown | ⟶  | 👂 heard |
+| Revealing constructor | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `0` of `50` skills, `50` to be upgraded, and `0` above needed
+Total: you have `22` of `50` skills, `28` to be upgraded, and `8` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| Async Iterator | 🤷 unknown | ⟶  | 🎓 known |
+| Signal | 🤷 unknown | ⟶  | 🎓 known |
+| Stream | 🤷 unknown | ⟶  | 🎓 known |
+| Chain of responsibility | 🤷 unknown | ⟶  | 👂 heard |
+| Locks | 🤷 unknown | ⟶  | 👂 heard |
+| callbackify | 🤷 unknown | ⟶  | 🎓 known |
+| promisify | 🤷 unknown | ⟶  | 🎓 known |
+| asyncify | 🤷 unknown | ⟶  | 🎓 known |
+| Readable | 🤷 unknown | ⟶  | 🎓 known |
+| Writable | 🤷 unknown | ⟶  | 🎓 known |
+| Transform | 🤷 unknown | ⟶  | 🎓 known |
+| Async Pool | 🤷 unknown | ⟶  | 🎓 known |
+| Async Queue | 🤷 unknown | ⟶  | 🎓 known |
+| Async Collector | 🤷 unknown | ⟶  | 🎓 known |
+| AbortController | 👂 heard | ⟶  | 🖐️ used |
+| AbortSignal | 👂 heard | ⟶  | 🎓 known |
+| Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
+| Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
+| JSON streaming serialization | 🤷 unknown | ⟶  | 👂 heard |
+| Promise.allSettled | 🤷 unknown | ⟶  | 🖐️ used |
+| Promise.race | 👂 heard | ⟶  | 🖐️ used |
+| Revealing constructor | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `0` of `37` skills, `37` to be upgraded, and `0` above needed
+Total: you have `15` of `37` skills, `22` to be upgraded, and `5` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| Async I/O | 🤷 unknown | ⟶  | 🎓 known |
+| Thread pool | 🤷 unknown | ⟶  | 🎓 known |
+| Pattern Reactor | 🤷 unknown | ⟶  | 🎓 known |
+| CAS operations | 🤷 unknown | ⟶  | 👂 heard |
+| libuv | 🤷 unknown | ⟶  | 🎓 known |
+| Live locks | 🤷 unknown | ⟶  | 🖐️ used |
+| Concurrent programming | 👂 heard | ⟶  | 🎓 known |
+| Parallel programming | 👂 heard | ⟶  | 🎓 known |
+| Actor Model | 🤷 unknown | ⟶  | 🎓 known |
+| Thread | 👂 heard | ⟶  | 🖐️ used |
+| Process | 👂 heard | ⟶  | 🖐️ used |
+| Thenable | 🤷 unknown | ⟶  | 🖐️ used |
+| Future | 🤷 unknown | ⟶  | 👂 heard |
+| Deferred | 🤷 unknown | ⟶  | 👂 heard |
+| Sync generator | 🤷 unknown | ⟶  | 🖐️ used |
+| Async Generator | 🤷 unknown | ⟶  | 🖐️ used |
+| Async Iterator | 🤷 unknown | ⟶  | 🖐️ used |
+| Coroutine | 🤷 unknown | ⟶  | 👂 heard |
+| Goroutine | 🤷 unknown | ⟶  | 👂 heard |
+| Signal | 🤷 unknown | ⟶  | 🖐️ used |
+| Stream | 🤷 unknown | ⟶  | 🖐️ used |
+| Chain of responsibility | 🤷 unknown | ⟶  | 🖐️ used |
+| Locks | 🤷 unknown | ⟶  | 🖐️ used |
+| callbackify | 🤷 unknown | ⟶  | 🖐️ used |
+| promisify | 🤷 unknown | ⟶  | 🖐️ used |
+| asyncify | 🤷 unknown | ⟶  | 🖐️ used |
+| Readable | 🤷 unknown | ⟶  | 🖐️ used |
+| Writable | 🤷 unknown | ⟶  | 🖐️ used |
+| Transform | 🤷 unknown | ⟶  | 🖐️ used |
+| Async Pool | 🤷 unknown | ⟶  | 🖐️ used |
+| Async Queue | 🤷 unknown | ⟶  | 🖐️ used |
+| Async Collector | 🤷 unknown | ⟶  | 🖐️ used |
+| Spin Lock | 🤷 unknown | ⟶  | 🎓 known |
+| AbortController | 👂 heard | ⟶  | 🖐️ used |
+| AbortSignal | 👂 heard | ⟶  | 🖐️ used |
+| Promise double resolve | 🤷 unknown | ⟶  | 🖐️ used |
+| Atomics | 🤷 unknown | ⟶  | 🎓 known |
+| High resolution clock | 🤷 unknown | ⟶  | 🎓 known |
+| Error handling in async code | 🤷 unknown | ⟶  | 🖐️ used |
+| Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
+| JSON streaming serialization | 🤷 unknown | ⟶  | 🖐️ used |
+| AsyncLocalStorage | 🤷 unknown | ⟶  | 🖐️ used |
+| AsyncResource | 🤷 unknown | ⟶  | 🖐️ used |
+| Async.js library | 🤷 unknown | ⟶  | 👂 heard |
+| RxJS library | 🤷 unknown | ⟶  | 👂 heard |
+| Promise.allSettled | 🤷 unknown | ⟶  | 🖐️ used |
+| Promise.race | 👂 heard | ⟶  | 🖐️ used |
+| Web Locks API | 🤷 unknown | ⟶  | 🎓 known |
+| IPC | 🤷 unknown | ⟶  | 🎓 known |
+| Channel API | 🤷 unknown | ⟶  | 🎓 known |
+| Revealing constructor | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `0` of `75` skills, `75` to be upgraded, and `0` above needed
+Total: you have `24` of `75` skills, `51` to be upgraded, and `4` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
