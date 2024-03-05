@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-443/588/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-507/720/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-443/588/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-507/720/730-009933?style=flat-square)](https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-443/588/730-009933?style=flat-square"></a>
+<a href="https://github.com/irgalamarr/self-assessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-507/720/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -41,15 +41,15 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `9` | `17` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `3` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `0` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `0` | `6` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `0` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Network | `0` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `0` | `12` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data access | `0` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `7` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `9` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `3` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `9` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Network | `17` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `5` | `12` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data access | `7` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `6` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `1` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `13` | `25` |
 | &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `15` | `21` |
@@ -229,29 +229,29 @@ Total: you have `24` of `75` skills, `51` to be upgraded, and `4` above needed
 | API and domain logic developer | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `38` above needed
 
 | Enterprise applications | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `46` above needed
 
 | Real-Time, gamedev, messaging | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `36` above needed
 
 | Web and Frontend | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `20` above needed
 
 | Fullstack development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `41` above needed
 
 | Platform/system development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `56` above needed
