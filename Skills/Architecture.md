@@ -1,100 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components u
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
   - Directories
-  - GRASP h
-  - SOLID h
-  - GoF patterns h
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - CQS
-  - Leaking abstractions h
-  - Multiparadigm code h
-  - Contract programming u
-  - Platform-agnostic u
-  - Transport-agnostic h
-  - Framework-agnostic u
-  - Code coverage u
-  - Cohesion u
-  - Coupling u
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 👂 heard
+  - Contract programming: 🖐️ used
+  - Platform-agnostic: 🖐️ used
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 🖐️ used
+  - Code coverage: 🖐️ used
+  - Cohesion: 🖐️ used
+  - Coupling: 🖐️ used
   - Cyclomatic complexity
-  - Reliability u
-  - Quality u
-  - Availability u
-  - Flexibility u
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL) h
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
-  - Multilayer approach h
+  - Multilayer approach: 👂 heard
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming h
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
-  - Dependency injection (DI) h
-  - Clean architecture k
-  - Domain-driven design (DDD) u
-  - Pub/sub u
-  - Message brocker k
-  - Agent k
+  - Dependency injection (DI): 👂 heard
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 🖐️ used
+  - Pub/sub: 🖐️ used
+  - Message brocker: 🎓 known
+  - Agent: 🎓 known
   - Service locator
-  - Message Queue (MQ) k
-  - CQRS u
-  - Event sourcing u
-  - E-R data modeling u
-  - Entity-relationship diagram u
+  - Message Queue (MQ): 🎓 known
+  - CQRS: 🖐️ used
+  - Event sourcing: 🖐️ used
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation u
-  - Distributed systems k
-  - High-intensive computing k
-  - Load balancing u
-  - Gateways u
+  - Budget estimation: 🖐️ used
+  - Distributed systems: 🎓 known
+  - High-intensive computing: 🎓 known
+  - Load balancing: 🖐️ used
+  - Gateways: 🖐️ used
   - On-premises
-  - IaaS u
-  - PaaS u
-  - SaaS u
-  - FaaS clouds k
-  - Serverless u
-  - Vendor lock-in u
-  - Bus factor u
+  - IaaS: 🖐️ used
+  - PaaS: 🖐️ used
+  - SaaS: 🖐️ used
+  - FaaS clouds: 🎓 known
+  - Serverless: 🖐️ used
+  - Vendor lock-in: 🖐️ used
+  - Bus factor: 🖐️ used
 - Solution architecture
-  - A software requirements specification (SRS) k
+  - A software requirements specification (SRS): 🎓 known
   - Solution visions
   - Solution capabilities
-  - System design h
-  - Process modelling k
-  - Data modelling k
+  - System design: 👂 heard
+  - Process modelling: 🎓 known
+  - Data modelling: 🎓 known
   - Solution components
-  - Risk assessment h
-  - Non Functional Requirements (NFR) u
+  - Risk assessment: 👂 heard
+  - Non Functional Requirements (NFR): 🖐️ used
   - Clouds
   - BPMN
-  - Low-code u
-  - No-code u
-  - Metric u
-  - Metric abuse h
-  - ACID k
-  - CAP theorem k
-  - Single source of truth (SSOT) k
+  - Low-code: 🖐️ used
+  - No-code: 🖐️ used
+  - Metric: 🖐️ used
+  - Metric abuse: 👂 heard
+  - ACID: 🎓 known
+  - CAP theorem: 🎓 known
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs u
+  - Understanding business needs: 🖐️ used
   - Enterprise strategy
-  - Integration with subsystems u
+  - Integration with subsystems: 🖐️ used
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope u
+  - Project scope: 🖐️ used
   - Enterprise service bus
-  - Service-oriented architecture h
-  - Microservices k
+  - Service-oriented architecture: 👂 heard
+  - Microservices: 🎓 known
   - Process choreography
-  - Service orchestration k
-  - Data warehouse k
+  - Service orchestration: 🎓 known
+  - Data warehouse: 🎓 known
   - Business Intelligence
-  - OLAP k
-  - OLTP k
-  - Conways Law u
-  - Quality assurance u
+  - OLAP: 🎓 known
+  - OLTP: 🎓 known
+  - Conways Law: 🖐️ used
+  - Quality assurance: 🖐️ used
   - Engineering Hygiene
